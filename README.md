@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kranti Shinde</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **DSA,GENAI**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **krantishinde28@gmail.com**
 
