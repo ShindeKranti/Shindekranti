@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kranti Shinde</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌐 Portfolio: **https://woven-delete-86082975.figma.site/**
 - 📫 How to reach me **krantishinde28@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
